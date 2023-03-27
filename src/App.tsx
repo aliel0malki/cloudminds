@@ -59,7 +59,7 @@ function App() {
                 <div className="container mx-auto">
                     <div className="mockup-code bg-gray-900 my-10 mx-2">
                         <pre data-prefix="$">
-                            <code>npm i daisyui</code>
+                            <code>npm i cloudminds@latest</code>
                         </pre>
                         <pre data-prefix=">" className="text-warning">
                             <code>installing...</code>
