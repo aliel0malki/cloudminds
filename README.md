@@ -1,2 +1,2 @@
 # cloudminds
-For learn TypeScript with React and Firebase.
+For Learning React Ts with Vite and Firebase in Backend.
